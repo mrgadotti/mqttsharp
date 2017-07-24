@@ -1,0 +1,38 @@
+C:\Users\marce\Desktop\MQTT-Client-master\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.exe
+C:\Users\marce\Desktop\MQTT-Client-master\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.pdb
+C:\Users\marce\Desktop\MQTT-Client-master\MQTT-Client\MQTT-Client\bin\Debug\M2Mqtt.dll
+C:\Users\marce\Desktop\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csprojResolveAssemblyReference.cache
+C:\Users\marce\Desktop\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Form1.resources
+C:\Users\marce\Desktop\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Properties.Resources.resources
+C:\Users\marce\Desktop\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csproj.GenerateResource.Cache
+C:\Users\marce\Desktop\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.exe
+C:\Users\marce\Desktop\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.pdb
+D:\Google Drive\Desenvolvimento\Estudo e pessoal\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.pdb
+D:\Google Drive\Desenvolvimento\Estudo e pessoal\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.exe
+D:\Google Drive\Desenvolvimento\Estudo e pessoal\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.pdb
+D:\Google Drive\Desenvolvimento\Estudo e pessoal\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\bin\Debug\M2Mqtt.dll
+D:\Google Drive\Desenvolvimento\Estudo e pessoal\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csprojResolveAssemblyReference.cache
+D:\Google Drive\Desenvolvimento\Estudo e pessoal\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Form1.resources
+D:\Google Drive\Desenvolvimento\Estudo e pessoal\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Properties.Resources.resources
+D:\Google Drive\Desenvolvimento\Estudo e pessoal\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csproj.GenerateResource.Cache
+D:\Google Drive\Desenvolvimento\Estudo e pessoal\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.exe
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.exe
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.pdb
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\bin\Debug\M2Mqtt.dll
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csprojResolveAssemblyReference.cache
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Form1.resources
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Properties.Resources.resources
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csproj.GenerateResource.Cache
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.exe
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.pdb
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.FormJSON.resources
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\bin\Debug\MQTT-Client.exe
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\bin\Debug\MQTT-Client.pdb
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\bin\Debug\M2Mqtt.dll
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\obj\Debug\MQTT-Client.csprojResolveAssemblyReference.cache
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\obj\Debug\MQTT_Client.Form1.resources
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\obj\Debug\MQTT_Client.FormJSON.resources
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\obj\Debug\MQTT_Client.Properties.Resources.resources
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\obj\Debug\MQTT-Client.csproj.GenerateResource.Cache
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\obj\Debug\MQTT-Client.exe
+D:\Google Drive\Desenvolvimento\Estudo\Programação\C#\MQTT-Client-master\MQTT-Client - Copia (2)\MQTT-Client\obj\Debug\MQTT-Client.pdb
